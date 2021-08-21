@@ -1,0 +1,36 @@
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Not NeuroRacer.exe
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Not NeuroRacer.pdb
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\obj\Debug\Not NeuroRacer.csprojResolveAssemblyReference.cache
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\obj\Debug\Not NeuroRacer.exe
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\obj\Debug\Not NeuroRacer.pdb
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Content\right_shape.xnb
+c:\users\zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Content\wrong_shape.xnb
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Content\right_shape.png
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Content\wrong_shape.png
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Content\results.csv
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\MonoGame.Extended.dll
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Newtonsoft.Json.dll
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\MonoGame.Extended.pdb
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Newtonsoft.Json.xml
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Content\sprites.xnb
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Content\left-arrow.xnb
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Content\right-arrow.xnb
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Content\descriptionFont.xnb
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Content\titleFont.xnb
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Content\instruction_screen.xnb
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Content\greenpentagon.xnb
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Content\greensquare.xnb
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Content\purplepentagon.xnb
+C:\Users\Zachary\documents\visual studio 2015\Projects\Not NeuroRacer\Not NeuroRacer\bin\DesktopGL\AnyCPU\Debug\Content\purplesquare.xnb
